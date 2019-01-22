@@ -19,7 +19,7 @@
     }
 
     &__btn-container .is-light {
-      background-color: #fabb69;
+      background-color: $mainOrange;
       transition: .35s ease-out;
     }
   }
