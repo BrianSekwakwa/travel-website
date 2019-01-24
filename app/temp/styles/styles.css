@@ -1153,6 +1153,7 @@ Instead edit gulp/templates/sprite */
   position: absolute;
   top: 10px;
   right: 10px;
+  cursor: pointer;
 }
 
 .site-header__menu-icon::before {
