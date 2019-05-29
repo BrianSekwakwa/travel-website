@@ -1,6 +1,6 @@
 <h2>Clear View Escapes</h2>
 
-A traveling angency website
+A traveling agency website
 
 <h2>What I learned</h2>
 
